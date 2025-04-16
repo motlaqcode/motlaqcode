@@ -20,8 +20,8 @@
 
 ## 📊 آمار گیت‌هاب من
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=نام‌کاربری&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=نام‌کاربری&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=motlaqcode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motlaqcode&layout=compact&theme=tokyonight)
 
 ---
 
